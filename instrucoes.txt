@@ -2,10 +2,10 @@ Instruções para a prova
 --------------------------
 
 1 - Faça um login no seu github.com
-2 - Faça um FORK do repositório https://github.com/salgado/labso.2019.1.av1.git 
+2 - Faça um FORK do repositório https://github.com/salgado/labso.2021.1.trab.git 
 3 - Clonar o novo repósitório criado na sua máquina local
-4 - Entrar na pasta labso.2019.1.av1
-5 - Abrir o arquivo prova1-2019.txt e iniciar a prova (sugestão: deixe esse arquivo aberto em outra janela)
+4 - Entrar na pasta labso.2021.1.trab
+5 - Abrir o arquivo trab1-2021.txt e iniciar a prova (sugestão: deixe esse arquivo aberto em outra janela)
 
 
 Instruções básicas do github

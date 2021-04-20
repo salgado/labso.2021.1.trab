@@ -1,4 +1,4 @@
-1-Salve o arquivo prova1-2019.txt com todas as saus respostas, seu nome e matricula
+1-Salve o arquivo trab1-2021.txt com todas as saus respostas, seu nome e matricula
 
 2-Use o comando para listas todos os arquivos de sua pasta principal e direcione o resultado 
 para o arquivo final.txt
@@ -9,5 +9,5 @@ git commit -m " trabalho seu nome"
 git push
 
 
-4-Chame o professor, e entre no link abaixo:
+4-Ao terminar entre no link abaixo:
 https://forms.gle/sbpvvnNavos27S6e6
